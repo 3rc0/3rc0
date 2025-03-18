@@ -5,6 +5,9 @@
 - [X]   2018 - Media Gallery Website https://VoronezhGraffiti.github.io
 - [X]   2016 - SWSaver Prototype - Automation System https://github.com/3rc0/SWSaver
 - [X]   2011 - YouTube Channel Tutorial for Help Tech https://youtube.com/DiyarHussein
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=3rc0)
+
 <!--
 **3rc0/3rc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
