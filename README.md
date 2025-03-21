@@ -2,7 +2,7 @@
 
 - [X]   2024 - JobsIn - Directory of Job Platforms in Iraq https://jobsiniraq.github.io
 - [X]   2021 - In-house ATS for Recruiting, Credentialing, and Operations, built on Azure
-- [X]   2018 - Media Gallery Website https://VoronezhGraffiti.github.io
+- [X]   2018 - Media Gallery Static Website https://VoronezhGraffiti.github.io
 - [X]   2016 - SWSaver Prototype - Automation System https://github.com/3rc0/SWSaver
 - [X]   2011 - YouTube Channel Tutorial for Help Tech https://youtube.com/DiyarHussein
 
